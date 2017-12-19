@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin/Projects/kindersignlab/Application/Components/react-native-signature-capture/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/admin/.android/build-cache/71e9dde5d8317c6977589844bbb2e674a3ea5c4c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/admin/Projects/kindersignlab/Application/Components/react-native-signature-capture/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/admin/.android/build-cache/71e9dde5d8317c6977589844bbb2e674a3ea5c4c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
